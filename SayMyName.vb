@@ -1,18 +1,22 @@
 'Isabella Dougherty
 'RCET0265
-'Spring 2023
+'Fall 2023
 'Say My Name
-'https://github.com/IsabellaDougherty/SayMyName.git
 
+Imports System
 
-Module Operators
+Module Program
     Sub Main()
-        Dim name As String
-        Console.WriteLine("What is your name?")
-        name = Console.ReadLine()
-        If name = "Emily" Then Console.WriteLine("Hello Emily! Welcome to this program! I hope you have a wonderful day!
-                                    Press Enter to close this window.")
-        Console.ReadLine()
 
+        Console.WriteLine("Hello. What is your name?")
+        Dim name As String = Console.ReadLine()
+
+        If name = "Emily" Or name = "Joe" Then
+            Console.WriteLine($"Welcome {name}! I hope you have a wonderful day!")
+        ElseIf name = "Isabella" Or name = "Isabella Dougherty" Then
+            Console.WriteLine("My creator has arrived. Please, fix me.")
+        Else
+            Console.WriteLine($"You are not welcome here {name}. Begone with you!")
+            End Ifsd
     End Sub
 End Module
