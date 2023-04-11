@@ -1,0 +1,15 @@
+C:\Users\bella\Downloads\Github School Assignments\SayMyName\SayMyName\bin\Debug\net6.0\SayMyName.exe
+C:\Users\bella\Downloads\Github School Assignments\SayMyName\SayMyName\bin\Debug\net6.0\SayMyName.deps.json
+C:\Users\bella\Downloads\Github School Assignments\SayMyName\SayMyName\bin\Debug\net6.0\SayMyName.runtimeconfig.json
+C:\Users\bella\Downloads\Github School Assignments\SayMyName\SayMyName\bin\Debug\net6.0\SayMyName.dll
+C:\Users\bella\Downloads\Github School Assignments\SayMyName\SayMyName\bin\Debug\net6.0\SayMyName.pdb
+C:\Users\bella\Downloads\Github School Assignments\SayMyName\SayMyName\obj\Debug\net6.0\SayMyName.vbproj.AssemblyReference.cache
+C:\Users\bella\Downloads\Github School Assignments\SayMyName\SayMyName\obj\Debug\net6.0\SayMyName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bella\Downloads\Github School Assignments\SayMyName\SayMyName\obj\Debug\net6.0\SayMyName.AssemblyInfoInputs.cache
+C:\Users\bella\Downloads\Github School Assignments\SayMyName\SayMyName\obj\Debug\net6.0\SayMyName.AssemblyInfo.vb
+C:\Users\bella\Downloads\Github School Assignments\SayMyName\SayMyName\obj\Debug\net6.0\SayMyName.vbproj.CoreCompileInputs.cache
+C:\Users\bella\Downloads\Github School Assignments\SayMyName\SayMyName\obj\Debug\net6.0\SayMyName.dll
+C:\Users\bella\Downloads\Github School Assignments\SayMyName\SayMyName\obj\Debug\net6.0\refint\SayMyName.dll
+C:\Users\bella\Downloads\Github School Assignments\SayMyName\SayMyName\obj\Debug\net6.0\SayMyName.pdb
+C:\Users\bella\Downloads\Github School Assignments\SayMyName\SayMyName\obj\Debug\net6.0\SayMyName.genruntimeconfig.cache
+C:\Users\bella\Downloads\Github School Assignments\SayMyName\SayMyName\obj\Debug\net6.0\ref\SayMyName.dll
